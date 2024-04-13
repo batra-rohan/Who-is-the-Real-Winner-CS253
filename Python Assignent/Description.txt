@@ -1,0 +1,2 @@
+For the python assignment , a ML competition named " Who is the real winner?" was hosted on Kaggle wherein we had to predict the Education Level of the winning candidates from different constituencies with 
+given features like Total Assets, Liabilities ,Criminal Case etc.
